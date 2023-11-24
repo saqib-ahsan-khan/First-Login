@@ -1,0 +1,92 @@
+section {
+    position: absolute;
+    border: 2px solid rgb(82, 75, 75);
+    padding: 61px;
+    margin-top: 151px;
+    margin-left: 444px;
+    backdrop-filter: blur(15px);
+    font-family: 'Alkatra', cursive;
+    font-family: 'Kablammo', cursive;
+    font-family: 'Spectral SC', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    background-image: url("seattle-71777.jpg");
+    background-size: cover;
+    
+    
+}
+
+#t1 {
+    width: 236px;
+    height: 30px;
+    margin: 10px;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    transition: border-color 0.6s;
+    color: white;
+    font-size: 13px;
+
+}
+
+#t1::placeholder {
+    font-family: 'Alkatra', cursive;
+    font-family: 'Kablammo', cursive;
+    font-family: 'Spectral SC', serif;
+    font-family: 'Ubuntu', sans-serif;
+
+    color: white;
+}
+
+#i1 {
+    position: absolute;
+    left: 279px;
+    top: 144px;
+    filter: invert(100%);
+}
+
+#i2 {
+    position: absolute;
+    left: 279px;
+    top: 197px;
+    filter: invert(100%);
+
+}
+
+#t1:focus {
+    outline: none;
+    border-color: purple;
+}
+h1{
+    color: white;
+    margin-left: 10px;   
+}
+#b1{
+    width: 239px;
+    height: 35px;
+    color: white;
+    background-color: transparent;
+    border: none;
+    font-size: 13px;
+    border: 2px solid white;
+    margin-left: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+#b1:hover{
+    background-color: purple;
+
+}
+#f{
+    margin-left: 95px;
+    color: white;
+}
+#f1{
+    margin-left: 10px;
+    color: white;
+}
+#f1:hover{
+    color: purple;
+}
