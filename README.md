@@ -17,6 +17,7 @@ This repository contains HTML and CSS code for a login interface. The HTML struc
 1. Include the HTML code in your project to create a login interface.
 2. Link the provided CSS file (`log.css`) to the HTML document using `<link>` tags.
 3. Ensure Font Awesome's CDN (`https://kit.fontawesome.com/67d9b093e8.js`) is accessible to render the icons correctly.
+![image](https://github.com/saqib-ahsan-khan/First-Login/assets/135452685/e1c204f9-97ee-46fa-b3d5-f29383425abe)
 
 ## Notes
 - Customize the HTML structure and CSS styles as needed for integration into your web project.
